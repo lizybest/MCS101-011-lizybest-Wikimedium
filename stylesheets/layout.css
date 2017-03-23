@@ -27,3 +27,18 @@ h1 + p {
   color: rgba(0, 0, 0, 0.4);
 
 }
+
+p {
+  margin-top: 52px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 21px;
+  line-height: 31px;
+  color: #212121;
+
+}
+
+h2 {
+font-family: 'PT Sans Caption', sans-serif;
+
+
+}
